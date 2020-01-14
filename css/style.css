@@ -1,0 +1,135 @@
+body {
+	margin: 30px 30px;
+}
+.logo {
+	height: 30px;
+	vertical-align: middle;
+}
+.nav-bar {
+	padding: 0 0 0 50px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav-li {
+	margin: 0 25px 0 0;
+	color: #3D58A6;
+	font-size: 22px;
+	font-family: 'BPG Nino Mtavruli Bold';
+	display: inline-block;
+}
+.active {
+	color: #EE4036;
+}
+.banner {
+	margin: 30px 0 0;
+}
+.h1 {
+	font-size: 24px;
+	margin: 120px 0 36px;
+}
+.div-box {
+	display: inline-block;
+	background-color: #F2F2F2;
+	margin: 0 29px 0 0;
+	
+}
+.h2 {
+	font-size: 22px;
+	color: #3D58A6;
+	padding: 17px 17px;	
+}
+.box-img {
+	height: 130px;
+	vertical-align: top;
+	padding: 18px 0 40px 38px;
+}
+.div-p {
+	font-size: 20px;
+	display: inline-block;
+	vertical-align: top;
+	width: 340px;
+	padding: 27px 30px 48px 58px;
+}
+.social-logo {
+	height: 30px;
+	padding: 70px 60px 0 10px;
+}
+.blue-box {
+	text-align: center;
+	width: 56px;
+	color: #fff;
+	background-color: #3D58A6;
+	font-size: 48px;
+	margin: 30px 0 10px 0;
+}
+.date {
+	font-size: 22px;
+	color: #3D58A6;
+	font-family: 'BPG Nino Mtavruli';
+}
+.article {
+	padding: 27px 0 58px 0;
+}
+.title-h2 {
+	font-size: 20px;
+	padding: 0 0 22px 0;
+	font-family: 'BPG Nino Mtavruli';
+}
+.article-box {
+	display: inline-block;
+	width: 930px;
+	vertical-align: top;
+	padding: 0 0 0 38px;
+}
+.article-p {
+	font-size: 16px;
+	padding: 0 0 25px 0;
+	font-family: 'BPG Ingiri Arial';
+}
+.contact-box {
+	height: 570px;
+	background-color: #E6E6E6;
+	margin: 30px 0 0 0;
+}
+.contact-info {
+	padding: 50px 40px 0 30px;
+	display: inline-block;
+}
+.contact-info p {
+	font-size: 16px;
+}
+.details {
+	color: #808080;
+}
+.title-h4 {
+	font-size: 20px;
+	font-weight: bold;
+	color: #3D58A6;
+	font-family: 'BPG Nino Mtavruli Bold';
+}
+.title-h4 p {
+	font-family: 'BPG Ingiri Arial';
+}
+.map-box {
+	display: inline-block;
+	vertical-align: top;
+	padding: 50px 0 50px 40px;
+}
+.icon-fb { 
+	position: relative;
+	width: 50px;
+	display: inline-block;
+}
+.icon-fb:after {
+	content: "";
+	position: absolute;
+	right: 0;
+	top: 0;
+	height: 26px;
+	width: 2px;
+	background: blue;
+	margin-top: 72px;
+}
+.icon-yt {
+	display: inline-block;
+}
